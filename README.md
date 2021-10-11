@@ -43,6 +43,7 @@ ZADANIA:
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
 - [Logo maker - https://logomakr.com/](https://logomakr.com/)
+- [ENVATO Elements](https://elements.envato.com/)
 ### ---------Assets
 https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
 ### ---------Stock Img
