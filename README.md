@@ -28,3 +28,10 @@
 [Elegant Themes](https://www.elegantthemes.com)
 
 [Essential addons for Elementor](https://essential-addons.com/elementor/)
+
+```
+ZADANIA:
+1. Zainstaluj XAMPP
+2. Zainstaluj Wordpress
+3. Zastosuj jeden z Page builderów do stworzenia strony internetowej o zadeklarowanej tematyce. 
+```
