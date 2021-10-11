@@ -16,8 +16,9 @@
 - Artisteer NicePage.com
 
 ### Plugins
-1. [Elementor](https://elementor.com/)
-2. [Divi](https://www.elegantthemes.com/gallery/divi/)
+1. [Guttneberg](https://github.com/WordPress/gutenberg)
+2. [Elementor](https://elementor.com/)
+3. [Divi](https://www.elegantthemes.com/gallery/divi/)
 
 ### Info
 1. [Divi vs Elementor](https://www.youtube.com/watch?v=gvg0ldGN6A0)
