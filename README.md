@@ -3,7 +3,7 @@
 ### Templates
 
 1. Astra https://wpastra.com/ (single page import, pixabay photos)
-2. Ocean - WP https://oceanwp.org/ (https://oceanwp.org/)
+2. Ocean - WP https://oceanwp.org/ 
 
 ### Builders
 - Elementor, 
