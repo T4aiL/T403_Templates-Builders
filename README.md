@@ -3,7 +3,7 @@
 ### Templates
 
 1. Astra https://wpastra.com/ (single page import, pixabay photos)
-2. Ocean - WP
+2. Ocean - WP https://oceanwp.org/ ()
 
 ### Builders
 - Elementor, 
@@ -29,6 +29,8 @@
 [Elegant Themes](https://www.elegantthemes.com)
 
 [Essential addons for Elementor](https://essential-addons.com/elementor/)
+
+[How to Make a Parallax Website - (Create a Pro Website)](https://youtu.be/lh8w2upALV8)
 
 ```
 ZADANIA:
