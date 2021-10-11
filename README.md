@@ -35,3 +35,8 @@ ZADANIA:
 2. Zainstaluj Wordpress
 3. Zastosuj jeden z Page builderów do stworzenia strony internetowej o zadeklarowanej tematyce. 
 ```
+
+### ---------Assets
+https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
+### ---------Stock Img
+https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
