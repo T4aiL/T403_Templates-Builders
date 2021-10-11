@@ -18,3 +18,5 @@
 ### Links
 [PoznajWP.pl Krzysiek Wojteczko](https://www.youtube.com/channel/UCc_tRL8AZxPq5A9UZUdqk8g)
 (Elegant Themes)[https://www.elegantthemes.com]
+
+(Essential addons for Elementor)[https://essential-addons.com/elementor/]
