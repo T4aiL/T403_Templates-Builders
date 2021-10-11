@@ -3,7 +3,9 @@
 ### Templates
 
 1. Astra https://wpastra.com/ (single page import, pixabay photos)
-2. Ocean - WP https://oceanwp.org/ ()
+2. Ocean - WP https://oceanwp.org/ (https://oceanwp.org/)
+
+[Astra vs OceanWP](https://winningwp.com/astra-vs-oceanwp-wordpress-themes/)
 
 ### Builders
 - Elementor, 
