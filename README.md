@@ -34,9 +34,11 @@
 ZADANIA:
 1. Zainstaluj XAMPP
 2. Zainstaluj Wordpress
-3. Zastosuj jeden z Page builderów do stworzenia strony internetowej o zadeklarowanej tematyce. 
+3. Zastosuj jeden z Page builderów do stworzenia strony internetowej o zadeklarowanej tematyce.
+4. Wykonaj backup swojej strony za pomocą darmowej wtyczki
 ```
-
+### ---------Tools
+https://jchost.pl/blog/kopia-zapasowa-wordpress/
 ### ---------Assets
 https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
 ### ---------Stock Img
