@@ -23,6 +23,7 @@
 ### Info
 1. [Divi vs Elementor](https://www.youtube.com/watch?v=gvg0ldGN6A0)
 2. [Astra vs OceanWP](https://winningwp.com/astra-vs-oceanwp-wordpress-themes/)
+3. [WordPress Vs Wix | Which is Better?](https://www.youtube.com/watch?v=8X-FB5JWStg)
 
 ### Links
 [PoznajWP.pl Krzysiek Wojteczko](https://www.youtube.com/channel/UCc_tRL8AZxPq5A9UZUdqk8g)
