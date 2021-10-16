@@ -18,8 +18,8 @@
 ### Plugins
 1. [Guttneberg](https://github.com/WordPress/gutenberg)
 2. [Elementor](https://elementor.com/)
-  3.1. [Elements Kit](https://wpmet.com/plugin/elementskit/)
-  3.2. [Essential addons for Elementor](https://essential-addons.com/elementor/)
+* [Elements Kit](https://wpmet.com/plugin/elementskit/)
+* [Essential addons for Elementor](https://essential-addons.com/elementor/)
 4. [Divi](https://www.elegantthemes.com/gallery/divi/)
 
 ### Info
