@@ -18,7 +18,9 @@
 ### Plugins
 1. [Guttneberg](https://github.com/WordPress/gutenberg)
 2. [Elementor](https://elementor.com/)
-3. [Divi](https://www.elegantthemes.com/gallery/divi/)
+  3.1. [Elements Kit](https://wpmet.com/plugin/elementskit/)
+  3.2. [Essential addons for Elementor](https://essential-addons.com/elementor/)
+4. [Divi](https://www.elegantthemes.com/gallery/divi/)
 
 ### Info
 1. [Divi vs Elementor](https://www.youtube.com/watch?v=gvg0ldGN6A0)
@@ -29,8 +31,6 @@
 [PoznajWP.pl Krzysiek Wojteczko](https://www.youtube.com/channel/UCc_tRL8AZxPq5A9UZUdqk8g)
 
 [Elegant Themes](https://www.elegantthemes.com)
-
-[Essential addons for Elementor](https://essential-addons.com/elementor/)
 
 [How to Make a Parallax Website - (Create a Pro Website)](https://youtu.be/lh8w2upALV8)
 
