@@ -49,3 +49,5 @@ ZADANIA:
 https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
 ### ---------Stock Img
 https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
+### ---------Tutorials
+[Jak Zrobić Stronę Internetową w Wordpress 2021 | 23 Kroki | Wordpress Tutorial dla Początkujących](https://youtu.be/B1N2LYmS2wY)
