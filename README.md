@@ -46,6 +46,7 @@ ZADANIA:
 
 MICHAŁ [Mega Gym](https://oceanwp.org/demo-item/mega-gym/):
 ![MICHAŁ](megagym.jpg)
+
 MARCIN: [AUTO](strona.png)
 
 ### ---------Tools
