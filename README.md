@@ -45,7 +45,8 @@ ZADANIA:
 ```
 
 ```
-
+MICHAŁ:
+!()[]
 ```
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
