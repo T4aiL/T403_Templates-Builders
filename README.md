@@ -44,10 +44,9 @@ ZADANIA:
 4. Wykonaj backup swojej strony za pomocą darmowej wtyczki
 ```
 
-```
 MICHAŁ:
-!()[]
-```
+!(MICHAŁ)[gigastrona.png]
+
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
 - [Logo maker - https://logomakr.com/](https://logomakr.com/)
