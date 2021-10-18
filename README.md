@@ -28,6 +28,8 @@
 4. [WordPress Vs Wix | Which is Better?](https://www.youtube.com/watch?v=8X-FB5JWStg)
 
 ### Links
+https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe
+
 [PoznajWP.pl Krzysiek Wojteczko](https://www.youtube.com/channel/UCc_tRL8AZxPq5A9UZUdqk8g)
 
 [Elegant Themes](https://www.elegantthemes.com)
