@@ -44,7 +44,7 @@ ZADANIA:
 4. Wykonaj backup swojej strony za pomocą darmowej wtyczki
 ```
 
-MICHAŁ:
+MICHAŁ [Mega Gym](https://oceanwp.org/demo-item/mega-gym/):
 ![MICHAŁ](gigastrona.png)
 
 ### ---------Tools
