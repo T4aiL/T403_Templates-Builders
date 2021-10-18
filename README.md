@@ -45,7 +45,7 @@ ZADANIA:
 ```
 
 MICHAŁ [Mega Gym](https://oceanwp.org/demo-item/mega-gym/):
-![MICHAŁ](gigastrona.png)
+![MICHAŁ](megagym.jpg)
 
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
