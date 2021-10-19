@@ -49,7 +49,7 @@ MICHAŁ [Mega Gym](https://oceanwp.org/demo-item/mega-gym/):
 
 MARCIN: ![AUTO](Strona.png)
 
-MIKOLAJ: ![SILOWNIA](silownia.png)
+MIKOLAJ: ![SILOWNIA](siłownia.png)
 
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
