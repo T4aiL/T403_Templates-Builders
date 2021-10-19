@@ -49,6 +49,8 @@ MICHAŁ [Mega Gym](https://oceanwp.org/demo-item/mega-gym/):
 
 MARCIN: ![AUTO](Strona.png)
 
+MIKOLAJ: ![SILOWNIA](silownia.png)
+
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
 - [Logo maker - https://logomakr.com/](https://logomakr.com/)
