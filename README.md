@@ -53,7 +53,7 @@ MIKOLAJ: ![SILOWNIA](siłownia.png)
 
 LUKASZ ![Lukasz](Lukasz.PNG)
 
-ANTEK ![ANTEK](strona%20elementor.png)
+ANTEK ![ANTEK](strona%20elemntor.png)
 
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
