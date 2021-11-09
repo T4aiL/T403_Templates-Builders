@@ -51,7 +51,9 @@ MARCIN: ![AUTO](Strona.png)
 
 MIKOLAJ: ![SILOWNIA](siłownia.png)
 
-LUKASZ [Lukasz](Lukasz.PNG)
+LUKASZ ![Lukasz](Lukasz.PNG)
+
+ANTEK ![ANTEK](strona%20elementor.png)
 
 ### ---------Tools
 - [5 darmowych wtyczek do kopii zapasowej WordPress](https://jchost.pl/blog/kopia-zapasowa-wordpress/)
